@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+title:Welcome to the liyansheng's homepage
+description: Feel free to bookmark this to keep an eyes on my project updates
 
 You can use the [editor on GitHub](https://github.com/shengsuper/liyansheng.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
